@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChickNuggie.
+- 👀 I’m interested in using data analytics to inform the legal practice.
+- 🌱 I’m currently learning R.
+- 💞️ I’m looking to collaborate on data analytics and legal software.
+- 📫 How to reach me https://www.dlapiperaccelerate.com/team/goodlett-brooke.html.
